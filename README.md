@@ -1,7 +1,6 @@
 
-##Hey, I'm Anmol<br><br>
-
-AI/ML Engineer | Student @ SVNIT Surat
+# Hey
+I'm Anmol, AI/ML Engineer | Student @ SVNIT Surat
 
 🎓 Integrated M.Sc. in Mathematics at SVNIT, Surat
 
