@@ -1,5 +1,4 @@
 
-```markdown
 <!-- Wave Header Banner -->
 <div align="center">
   <a target="_blank" href="https://github.com/kyechan99/capsule-render">
