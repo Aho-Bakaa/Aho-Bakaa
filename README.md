@@ -9,7 +9,7 @@
 <!-- Typing SVG Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Mathematics+%40+SVNIT+Surat; Building+Agentic+AI+%26+LLM+Evaluations;Quantum+Optimization+(QAOA)" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Mathematics+%40+SVNIT+Surat;Building+Agentic+AI+%26+LLM+Evaluations;Finetuning Models" alt="Typing SVG">
   </a>
 </p>
 
