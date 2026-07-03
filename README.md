@@ -34,10 +34,10 @@ class Anmol:
             "focus": "Applied Math, Linear Algebra & Numerical Optimization"
         }
         self.expertise = [
-            "LLM Evaluation Systems",
-            "Agentic AI Workflows (LangGraph / Multi-Agent)",
+            "LLM Evaluation and Observability Systems",
+            "Agentic AI Workflows",
             "RAG Pipelines",
-            "Quantum Optimization (QAOA)",
+            "Deep Learning",
             "Scalable Microservices"
         ]
 
