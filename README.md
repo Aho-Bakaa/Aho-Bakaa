@@ -23,7 +23,7 @@
 
 ### 👋 About Me
 
-AI/ML Engineer with a **strong math foundation** (M.Sc. Mathematics, SVNIT Surat) and 4 industry/research internships. I build production-grade **LLM infrastructure** — RAG pipelines with verification layers, multi-agent orchestrators, LLM observability frameworks, and multimodal trust/safety systems. Active open-source contributor to **LibreChat** and **LiteLLM**.
+AI/ML Engineer with a **strong math foundation** (M.Sc. Mathematics, SVNIT Surat) and 4 industry/research internships. I build production-grade **LLM infrastructure** — RAG pipelines with verification layers, multi-agent orchestrators, LLM observability frameworks, and multimodal trust/safety systems.
 
 <hr>
 
