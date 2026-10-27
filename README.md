@@ -30,7 +30,8 @@ AI/ML Engineer with a **strong math foundation** (M.Sc. Mathematics, SVNIT Surat
 ### 💼 Experience
 | When | Where | What I Built |
 |------|-------|-------------|
-| May 2026 – Present | **Yellowsense Technologies** | Architecting a contactless fingerprint authentication SDK — full biometric pipeline from segmentation to ISO-compliant template generation |
+| Jul 2026 – Present | ** IISC Bangalore** | Engineering advanced RAG for researchers hybrid dense-sparse retrieval, cross-encoder reranking, and verification layers for domain-grounded hallucination mitigation |
+| May - Sept 2026 | **Yellowsense Technologies** | Architecting a contactless fingerprint authentication SDK — full biometric pipeline from segmentation to ISO-compliant template generation |
 | Nov 2025 – May 2026 | **Logicwind** | Built LLM observability infrastructure with Langfuse; engineered an FSM-based Agentic AI procedure engine for customer support automation |
 | Jun – Jul 2025 | **Virtual Labs, IIT Roorkee** | Engineered a low-latency AI lab assistant — custom NLP pipeline with semantic caching, 40% latency reduction via model quantization |
 | Apr – Jul 2025 | **IIT (ISM) Dhanbad** | Developed hybrid Quantum-Classical EV routing (GAT + VQC), achieving 52% load variance reduction; RL framework with 95% success rate |
